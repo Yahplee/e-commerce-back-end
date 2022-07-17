@@ -6,7 +6,7 @@
 
 The main purpose of this project is to create an e-commerce application that allows the user to retrieve data based on categories, products, and tags. The user can also retrieve data of a singular category, product, or tag. Besides retrieving data, the user may also create, update, or delete categories, products, or tags.
 
-You may find the walkthrough video [here](https://youtu.be/Y50LgGd7spM).
+You may find the walkthrough video [here](https://youtu.be/TtSXhW1PxdU).
 
 ## Table of Contents
 
